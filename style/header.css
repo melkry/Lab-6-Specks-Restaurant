@@ -1,4 +1,4 @@
-#header h1 {
+.logo h1 {
   font-size: 3rem;
   font-family: "Mr Dafoe", cursive;
   color: #571a00;
@@ -30,7 +30,7 @@
     rgb(255, 204, 0) 3.9978px -0.132717px 0px;
 }
 
-#header h5 {
+.logo h5 {
   font-family: "Oswald", sans-serif;
   line-height: 0.1rem;
   color: #273c29;

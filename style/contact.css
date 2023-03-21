@@ -1,3 +1,7 @@
 #contact h2 {
   font-family: "Bebas Neue", cursive;
 }
+
+#contact form {
+  max-width: 25rem;
+}

@@ -35,3 +35,7 @@ ul {
 body {
   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFn3vme-9tcv1FmwOAcVz05JdFPDfExvKFq7tWqh4WHyBJvGUxleDUKvMFINYeZSOGubg&usqp=CAU");
 }
+
+.desktop-only {
+  display: none;
+}

@@ -1,6 +1,7 @@
 #about .section-header {
-  background: url("https://lh3.googleusercontent.com/p/AF1QipMK3goSnbivsN-lAcXXHduU0culCTyWroFWdYmi=s1360-w1360-h1020");
+  background-image: url("https://lh3.googleusercontent.com/p/AF1QipMK3goSnbivsN-lAcXXHduU0culCTyWroFWdYmi=s1360-w1360-h1020");
   background-position: 25% 30%;
+  background-repeat: no-repeat;
 }
 
 #about p {
