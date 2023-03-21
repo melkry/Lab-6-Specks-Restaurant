@@ -11,12 +11,13 @@
 }
 
 .section-header {
-  padding: 15rem;
+  padding: 17rem;
   text-align: center;
 }
 
 .section-header h2 {
   background-color: rgba(0, 0, 0, 0.5);
+  font-size: 400%;
 }
 
 li {
@@ -34,8 +35,4 @@ ul {
 
 body {
   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFn3vme-9tcv1FmwOAcVz05JdFPDfExvKFq7tWqh4WHyBJvGUxleDUKvMFINYeZSOGubg&usqp=CAU");
-}
-
-.desktop-only {
-  display: none;
 }
